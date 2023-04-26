@@ -1,0 +1,24 @@
+$darkBlue : #03045E;
+$brown : #474306;
+$yellow: #F5EE84;
+$lightYellow: #FBF8CC;
+$poppins-font : "Poppins";
+
+@import 'button.scss';
+@import 'homeImg.scss';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: $lightYellow;
+    font-family: $poppins-font;
+}
+
+.btn-button{
+    background-color: $yellow;
+    
+}
