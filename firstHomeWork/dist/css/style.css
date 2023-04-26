@@ -35,6 +35,10 @@
     padding: 13px 50px 13px;
   }
 }
+.navcollor:hover {
+  color: #03045E;
+}
+
 .img-rounded {
   height: 30rem;
   width: 21rem;
