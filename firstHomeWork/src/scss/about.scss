@@ -7,9 +7,11 @@
     &.parag{
         font-weight:bold
     }
-    &.a{
+    ul{
         width: 20px;
         display: block;
-        justify-content: end;
+    }
+    li{
+        list-style: square;
     }
 }

@@ -119,10 +119,20 @@
 .about.parag {
   font-weight: bold;
 }
-.about.a {
+.about ul {
   width: 20px;
   display: block;
-  justify-content: end;
+}
+.about li {
+  list-style: square;
+}
+
+.cardd {
+  background-color: #FBF8CC;
+}
+
+.cardd:hover {
+  box-shadow: 0 0 1px #03045E;
 }
 
 * {
