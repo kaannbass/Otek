@@ -1,0 +1,15 @@
+.color{
+    color: $yellow;
+    line-height: 100px;
+    size:100px
+}
+.about{
+    &.parag{
+        font-weight:bold
+    }
+    &.a{
+        width: 20px;
+        display: block;
+        justify-content: end;
+    }
+}
