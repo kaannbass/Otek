@@ -112,8 +112,9 @@
 
 .color {
   color: #F5EE84;
-  line-height: 100px;
-  size: 100px;
+  margin-top: 5rem;
+  line-height: 50px;
+  size: 50px;
 }
 
 .about.parag {
