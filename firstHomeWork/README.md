@@ -1,2 +1,2 @@
-**SASS kullanmak isterseniz terminal kısmına 
-*"npm run start" Yazmanız gerekmektedir. 
+## SASS kullanmak isterseniz terminal kısmına <br>
+### "npm run start" Yazmanız gerekmektedir. 
